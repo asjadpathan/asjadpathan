@@ -10,7 +10,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## 📊 GitHub Stats
-![Asjad's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsjadPathan19&show_icons=true&theme=radical)
+![Asjad's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsjadPathan&show_icons=true&theme=radical)
 
 ## 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOURUSERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asjadpathan)
