@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋, I'm Asjad!
+### 🚀 IT Engineering Student | 💻 Developer | 📸 Photographer
 
-<!--
-**asjadpathan/asjadpathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **AI & Cybersecurity Projects**
+- 🌱 Learning **JavaScript, Python, Cybersecurity**
+- ⚡ Fun fact: I love coding and photography!
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Asjad's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsjadPathan19&show_icons=true&theme=radical)
+
+## 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOURUSERNAME)
