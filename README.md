@@ -30,8 +30,12 @@ Final-year IT student specializing in software development and system design wit
 ### [StudyGen](https://github.com/asjadpathan/study_gen) — Adaptive AI-Driven Learning Platform
 Full-stack platform built with Spring Boot and React, powering personalized learning paths. JWT-based auth via Spring Security, Spring Data JPA + MySQL for the data layer with Flyway migrations, and modular REST endpoints for diagnostics, real-time collaborative study zones, and progress tracking.
 
-### [MindCare]([https://github.com/asjadpathan/mindcare_backend]) — AI-Based Mental Health Monitoring System
+### [MindCare](https://github.com/asjadpathan/MindCare_backend) — AI-Based Mental Health Monitoring System
 AI-driven platform for mood tracking and smart journaling that increased daily interaction by 40% and feature adoption by 35%. REST APIs built with Spring Boot and MySQL, with role-based JWT authentication securing routes for patients, therapists, and admins.
+
+### [Explain IQ](https://github.com/asjadpathan/explain_iq) — AI Educational Video Generation Microservice
+Explain IQ is an automated video generation engine that transforms educational topics into 1080p explainer videos complete with structured storyboards, AI voiceover, educational graphic slides, and synchronized video assembly.
+
 
 ## Certifications
 
