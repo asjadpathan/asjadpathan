@@ -2,7 +2,7 @@
 
 Final-year IT student specializing in software development and system design with Java, Spring Boot, and full-stack technologies. I like taking projects from concept to MVP — currently building AI-driven platforms for learning and mental health.
 
-- 🎓 B.Tech in IT @ IICT MGM University (2023 – Present), minor in Business Analytics
+- 🎓 B.Tech in IT @ IICT MGM University (2023 – 2027), minor in Business Analytics
 - 🔭 Currently building: **StudyGen**, an adaptive AI-driven learning platform
 - 🌱 Currently exploring: Generative AI on Oracle Cloud Infrastructure
 - 🏆 Secretary, IEEE Student Branch @ IICT MGMU
@@ -27,10 +27,10 @@ Final-year IT student specializing in software development and system design wit
 
 ## Featured Projects
 
-### [StudyGen](https://github.com/YOUR_GITHUB_USERNAME/studygen) — Adaptive AI-Driven Learning Platform
+### [StudyGen](https://github.com/asjadpathan/study_gen) — Adaptive AI-Driven Learning Platform
 Full-stack platform built with Spring Boot and React, powering personalized learning paths. JWT-based auth via Spring Security, Spring Data JPA + MySQL for the data layer with Flyway migrations, and modular REST endpoints for diagnostics, real-time collaborative study zones, and progress tracking.
 
-### [MindCare](https://github.com/YOUR_GITHUB_USERNAME/mindcare) — AI-Based Mental Health Monitoring System
+### [MindCare]([https://github.com/asjadpathan/mindcare_backend]) — AI-Based Mental Health Monitoring System
 AI-driven platform for mood tracking and smart journaling that increased daily interaction by 40% and feature adoption by 35%. REST APIs built with Spring Boot and MySQL, with role-based JWT authentication securing routes for patients, therapists, and admins.
 
 ## Certifications
