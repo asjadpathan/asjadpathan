@@ -21,8 +21,8 @@ Final-year IT student specializing in software development and system design wit
 ## GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asjadpathan&show_icons=true&theme=default&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asjadpathan&layout=compact&hide_border=true" height="165" />
 </p>
 
 ## Featured Projects
